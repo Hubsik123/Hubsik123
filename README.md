@@ -8,7 +8,7 @@
 * css
 * js
 * c++
-* sql
+* mysql
 
 **Made in :poland:**
 <br>
